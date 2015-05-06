@@ -1,4 +1,4 @@
 #include <stdio.h>
 
 void main (void)
-{printf("Hola Git\n");}
+{printf("HOLA\n");}
